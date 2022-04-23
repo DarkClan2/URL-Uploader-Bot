@@ -12,7 +12,7 @@
         "url",
         "uploader"
     ],
-    "repository" : "https://github.com/zainulhibath/URL_Uploader_Bot",
+    "repository" : "https://github.com/DarkClan2/URL_Uploader_Bot",
     "success_url" : "https://t.me/URL_Uploader_HYBRID_Bot",
     "env" : {
         "BOT_TOKEN" : {
